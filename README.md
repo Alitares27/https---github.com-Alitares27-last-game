@@ -1,4 +1,4 @@
-# cse210-06 "Ping Pong"
+# "Tennis Game"
 Final project cse210 - winter 2022
 
 ## Getting Started
