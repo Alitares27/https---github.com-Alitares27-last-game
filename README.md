@@ -1,5 +1,5 @@
 # "Tennis Game"
-Final project cse210 - winter 2022
+Final project
 
 ## Getting Started
 ---
@@ -36,20 +36,6 @@ cse210-06                 (project root folder)
 ---
 * Python 3.8.0
 * Raylib Python CFFI 3.7
-
-## Design
----
-
-* Eduardo Prieto
-    - Implement the basic structure
-    - Implement the elements classes
-    - Implement the services configuration
-    - Implement the scene classes
-    - Integrate the assets configuration
-* Yurinii Fuentes
-    - Implement the scripting actions configuration
-    - Integrate constants and assets configuration
-    - complete main file
 
 ## How did you ensure maintainability in your program's design?
 Upon completing the integration of the code, it will be established that the values of the attributes that are responsible for intertwining the flow of the process from the initialization of the code to its execution and obtaining the expected result, and thus avoiding errors, must remain in a unified file at which the required maintainability can be applied. In this way, we make sure that it is not necessary to modify the code every time the data needs to be modified. Therefore, in the last steps, the constants file will be implemented, and the assets folder will be implemented, which contains the data to be read and written.
