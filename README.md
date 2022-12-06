@@ -37,12 +37,6 @@ cse210-06                 (project root folder)
 * Python 3.8.0
 * Raylib Python CFFI 3.7
 
-## Authors
----
-* Yurinii Fuentes  fue21007@byui.edu 
-* Eduardo Prieto  pri21002@byui.edu
-
-
 ## Design
 ---
 
